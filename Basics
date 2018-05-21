@@ -1,0 +1,4 @@
+JavaScript provides seven different data types which are undefined, null, boolean, string, symbol, number, and object.
+Declaring a variable:  var ourName;
+Variable names can be made up of numbers, letters, and $ or _, but may not contain spaces or start with a number.
+When JavaScript variables are declared, they have an initial value of undefined. 
